@@ -1,3 +1,11 @@
+# Info & News
+
+
+I have an iOS Version coming out soon be sure to watch this github repo
+BrowserStack hopefully helping and sponsoring this project
+
+
+
 # IP-Cam-Viewer
 This program allows you to view your webcams feed through a more easier and faster enviroment
 
