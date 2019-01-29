@@ -2,7 +2,10 @@
 
 
 I have an iOS Version coming out soon be sure to watch this github repo
-BrowserStack hopefully helping and sponsoring this project
+Thank you Browserstack for Sponsoring this Project
+
+
+
 
 
 
