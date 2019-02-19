@@ -2,7 +2,7 @@
 ![Browserstack](https://i1.wp.com/www.diogonunes.com/blog/wp-content/uploads/2016/07/browserstack-logo.png?resize=840%2C276)
 
 
-
+![Logo](https://github.com/username/reponame/blob/master/subfolders.../filename.jpg)
 
 Thank you Browserstack for Sponsoring this Project.
 
